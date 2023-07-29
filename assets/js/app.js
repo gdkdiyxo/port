@@ -17,7 +17,7 @@ let header = $(`
   <ul class="navbar-nav ml-auto" id = "navbar-content">
    <li class="nav-item"><a class="nav-link" href="index.html">Home</a></li>
    <li class="nav-item"><a class="nav-link" href="experience.html">Experience</a></li>
-   <li class="nav-item"><a class="nav-link" href="https://gdkdiyxo.github.io/monu/">3D Portfolio</a></li>
+   <li class="nav-item"><a class="nav-link" href="https://3d.rohit.leidlik.com/">3D Portfolio</a></li>
    <li class="nav-item"><a class="nav-link" href="education.html">Education</a></li>
    <li class="nav-item"><a class="nav-link" href="https://drive.google.com/file/d/1vsZcE3xhaRcTfgXOriXDHQ5ySaUsa0aI/view?usp=drivesdk" target="_blank">Resume</a></li>
    <li class="nav-item">
